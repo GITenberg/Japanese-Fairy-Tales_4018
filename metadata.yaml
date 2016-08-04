@@ -1,0 +1,40 @@
+_repo: Japanese-Fairy-Tales_4018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ozaki, Yei Theodora
+    alias: Ozaki, Yukio, Madame
+    gutenberg_agent_id: '1360'
+    url: http://www.gutenberg.org/2009/agents/1360
+    wikipedia: http://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
+description: ''
+gutenberg_bookshelf:
+- Children's Myths, Fairy Tales, etc.
+- Folklore
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Japan'
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore -- Japan'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: My Lord Bag of Rice -- The tongue-cut sparrow -- The story of Urashima
+  Taro, the fisher lad -- The farmer and the badger -- The "shinansha," or the south
+  pointing carriage -- The adventures of Kintaro, the golden boy -- The story of princess
+  Hase -- The story of the man who did not wish to die -- The bamboo-cutter and the
+  moon-child -- The mirror of Matsuyama -- The goblin of Adachigahara -- The sagacious
+  monkey and the boar -- The happy hunter and the skillful fisher -- The story of
+  the old man who made withered trees to flower -- The jelly fish and the monkey --
+  The quarrel of the monkey and the crab -- The white hare and the crocodiles -- The
+  story of Prince Yamato Take -- Momotaro, or the story of the son of a peach -- The
+  ogre of Rashomon -- How an old man lost his wen -- The stones of five colours and
+  the Empress Jokwa.
+title: Japanese Fairy Tales
+url: http://www.gutenberg.org/ebooks/4018
