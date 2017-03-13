@@ -1,5 +1,8 @@
 _repo: Japanese-Fairy-Tales_4018
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ozaki, Yei Theodora
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1360
     wikipedia: http://en.wikipedia.org/wiki/Yei_Theodora_Ozaki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4018#Japanese-Fairy-Tales
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
